@@ -1,0 +1,121 @@
+/* Past Deictic Expression */
+"ago" = "前";
+
+/* List conjunction */
+"and" = "と";
+
+/* Day Unit (Singular, Abbreviated) */
+"d" = "日間";
+
+/* Day Unit (Singular) */
+"day" = "日間";
+
+/* Day Unit (Plural) */
+"days" = "日間";
+
+/* Day Unit (Plural, Abbreviated) */
+"ds" = "日間";
+
+/* Future Deictic Expression */
+"from now" = "今から";
+
+/* Hour Unit (Singular) */
+"hour" = "時間";
+
+/* Hour Unit (Plural) */
+"hours" = "時間";
+
+/* Hour Unit (Singular, Abbreviated) */
+"hr" = "時間";
+
+/* Hour Unit (Plural, Abbreviated) */
+"hrs" = "時間";
+
+/* Present Deictic Expression */
+"just now" = "ちょうど今";
+
+/* last month */
+"last month" = "先月";
+
+/* last week */
+"last week" = "先週";
+
+/* last year */
+"last year" = "昨年";
+
+/* Minute Unit (Singular, Abbreviated) */
+"min" = "分";
+
+/* Minute Unit (Plural, Abbreviated) */
+"mins" = "分";
+
+/* Minute Unit (Singular) */
+"minute" = "分";
+
+/* Minute Unit (Plural) */
+"minutes" = "分";
+
+/* Month Unit (Singular, Abbreviated) */
+"mo" = "月";
+
+/* Month Unit (Singular) */
+"month" = "月";
+
+/* Month Unit (Plural) */
+"months" = "月";
+
+/* Month Unit (Plural, Abbreviated) */
+"mos" = "月";
+
+/* next month */
+"next month" = "来月";
+
+/* next week */
+"next week" = "来週";
+
+/* next year */
+"next year" = "来年";
+
+/* Second Unit (Plural, Abbreviated)
+   Second Unit (Singular, Abbreviated) */
+"s" = "秒";
+
+/* Second Unit (Singular) */
+"second" = "秒";
+
+/* Second Unit (Plural) */
+"seconds" = "秒";
+
+/* tomorrow */
+"tomorrow" = "明日";
+
+/* Week Unit (Singular) */
+"week" = "週間";
+
+/* Week Unit (Plural) */
+"weeks" = "週間";
+
+/* Week Unit (Singular, Abbreviated) */
+"wk" = "週間";
+
+/* Week Unit (Plural, Abbreviated) */
+"wks" = "週間";
+
+/* Yard Unit */
+"yds" = "年";
+
+/* Year Unit (Singular) */
+"year" = "年";
+
+/* Year Unit (Plural) */
+"years" = "年";
+
+/* yesterday */
+"yesterday" = "昨日";
+
+/* Year Unit (Singular, Abbreviated) */
+"yr" = "年";
+
+/* Year Unit (Plural, Abbreviated) */
+"yrs" = "年";
+
